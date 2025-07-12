@@ -1,6 +1,6 @@
 ### Official implementation of:
 
-**Harim Jung, Myeong-Seok Oh, Cheoljong Yang, Seong-Whan Lee, “Neural Architecture Adaptation for Object Detection by Searching Channel Dimensions and Mapping Pre-trained Parameters,” ICPR 2022.** [[Paper (arXiv)](https://arxiv.org/pdf/2206.08509)]
+**Harim Jung, Myeong-Seok Oh, Cheoljong Yang, Seong-Whan Lee, “Neural Architecture Adaptation for Object Detection by Searching Channel Dimensions and Mapping Pre-trained Parameters,” ICPR 2022.** [[Paper](https://arxiv.org/pdf/2206.08509)]
 
 This project introduces a channel-adaptive neural architecture search (NAS) framework for object detection. The key innovation lies in searching for optimal channel dimensions, operations and the number of layers, and **mapping pre-trained parameters** to the newly searched architecture, enabling efficient adaptation without training from scratch.
 
